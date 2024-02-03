@@ -1,0 +1,16 @@
+{
+  "name": "phone",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main",
+    "dev": "nodemon main"
+  },
+  "author": "Bekmurod",
+  "license": "ISC",
+  "dependencies": {
+    "node-telegram-bot-api": "^0.61.0",
+    "nodemon": "^2.0.22"
+  }
+}
